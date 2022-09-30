@@ -1,0 +1,2 @@
+# Predistortion
+ robust flux pulse is an essential bridge to a set of scalable, high-fidelity quantum gates. Any unexpected flux pulse distortion will cause an unwanted qubit phase shift. This article first illustrates the type, source, and influence of flux pulse distortion. Then, several methods to pre-correct this distortion are demonstrated. At last, we verified as well as compared those methods by experiments, giving a persuasive conclusion on picking ways under different time scales.
